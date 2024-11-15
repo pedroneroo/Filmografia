@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "logo";
+    src: url(../fonts/NotoSansMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/Karla-Regular.ttf);
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/Karla-Bold.ttf);
+}
